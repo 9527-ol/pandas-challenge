@@ -20,3 +20,14 @@ The analysis has included the following:
 
 - Most Profitable Items
 
+
+Here are some visualizations:
+
+![image](image/age_demographics.png)
+
+
+![image](image/most_popular.png)
+
+
+![image](image/purchasing_analysis.png)
+
